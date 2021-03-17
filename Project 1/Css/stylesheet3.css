@@ -1,2 +1,4 @@
-body{text-align: left; font-family:arial; background-color:lavender ;}
-table,td{border: 5px dashed pink;}
+body{text-align: left; font-family:arial; background-color:lavender ;text-align: center;}
+table,td{border: 5px dashed pink;margin: 0 auto;}
+h1,h2{color: darkorchid;}
+a{color: plum}

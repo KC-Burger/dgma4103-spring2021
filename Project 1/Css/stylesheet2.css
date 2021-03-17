@@ -1,2 +1,4 @@
 body{text-align: center; font-family:impact; background-color:lightpink;}
-table,td{border: 5px solid violet;}
+table,td{border: 5px solid violet; margin: 0 auto; border-collapse: collapse;}
+a{color: magenta; }
+h1,h2{color: purple;}
